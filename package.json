@@ -1,6 +1,6 @@
 {
   "name": "i18next-parrot-backend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is a i18next plugin backend",
   "main": "dist/i18next-parrot-backend.js",
   "author": "Matthieu Rondeau <matt@matthieurondeau.fr>",

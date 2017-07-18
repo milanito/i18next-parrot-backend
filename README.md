@@ -1,5 +1,7 @@
 # i18next-parrot-backend
 
+[![CircleCI](https://circleci.com/gh/milanito/i18next-parrot-backend.svg?style=svg)](https://circleci.com/gh/milanito/i18next-parrot-backend) [![npm version](https://badge.fury.io/js/i18next-parrot-backend.svg)](https://badge.fury.io/js/i18next-parrot-backend) [![GitHub issues](https://img.shields.io/github/issues/milanito/i18next-parrot-backend.svg)](https://github.com/milanito/i18next-parrot-backend/issues) [![GitHub stars](https://img.shields.io/github/stars/milanito/i18next-parrot-backend.svg)](https://github.com/milanito/i18next-parrot-backend/stargazers)
+
 This is a simple i18next backend to be used when you have a [parrot](http://anthonynsimon.com/parrot.github.io/) instance.
 
 ## Getting started
